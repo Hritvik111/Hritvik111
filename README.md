@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Hritvik111/Hritvik111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hritvik, a passionate Data Analyst from Boston. Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working on a Data Analyst project.
+- 🌱 I’m always learning and exploring new technologies, currently diving into Statistical Modeling.
+- 💬 Ask me about anything related to Tableau and data.
+- 😄 Pronouns: He/Him.
+  
+## Get in Touch
+- 📫 How to reach me: [mahajan.hrit@northeastern.edu].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Collaborate!
+- 👯 I’m open to collaboration on projects, especially those related to Big Data.
+
+Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀✨
