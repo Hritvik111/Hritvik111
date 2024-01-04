@@ -3,7 +3,7 @@
 I'm Hritvik, a passionate Data Analyst from Boston. Welcome to my GitHub profile! 🚀
 
 ## About Me
-- 🔭 I’m currently working on a Data Analyst & SQL project.
+- 🔭 I’m currently working on a Data Analysis & SQL project.
 - 🌱 I’m always learning and exploring new technologies, currently diving into Statistical Modeling.
 - 💬 Ask me about anything related to Tableau and data analytics.
 - 😄 Pronouns: He/Him.
