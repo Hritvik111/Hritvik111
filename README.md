@@ -9,7 +9,12 @@ I'm Hritvik, a passionate Data Analyst from Boston. Welcome to my GitHub profile
 - 😄 Pronouns: He/Him.
   
 ## Get in Touch
-- 📫 How to reach me: [mahajan.hrit@northeastern.edu].
+📫 How to reach me:
+- **Email**: [mahajan.hrit@northeastern.edu](mailto:mahajan.hrit@northeastern.edu)
+- **LinkedIn**: [Hritvik Mahajan](https://www.linkedin.com/in/hritvikmahajan/)
+- **Tableau Public**: [Hritvik Mahajan - Tableau Public](https://public.tableau.com/app/profile/hritvik.mahajan/vizzes)
+
+  
 
 ## Let's Collaborate!
 - 👯 I’m open to collaboration on projects, especially those related to Big Data.
