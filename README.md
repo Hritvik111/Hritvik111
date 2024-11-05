@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Hritvik, a passionate Data Analyst from Boston. Welcome to my GitHub profile! 🚀
+I'm Hritvik, a passionate Data Analyst. Welcome to my GitHub profile! 🚀
 
 ## About Me
 - 🔭 I’m currently working on a Data Analysis & SQL project.
